@@ -9,6 +9,9 @@ This tool works by scanning barcodes of Student College IDs and extracting the U
 Once the device is deployed on the system, it generates a daily log file to maintain the logs.
 This tool helps to keep track of the peak hours and usage of the Lab, which helps for future planning and development.
 
+## :point_right: Requirements to install before running a tool
+
+1. Download the [requirements.txt](https://github.com/ayushg18/CollegeLab_AttendanceMachine/requirements.txt) file.
 
 ## Benefits:
 
