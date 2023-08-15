@@ -1,0 +1,6 @@
+opencv-python
+openpyxl
+pyzbar
+pandas
+pyttsx3
+styleframe
