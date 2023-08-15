@@ -11,7 +11,16 @@ This tool helps to keep track of the peak hours and usage of the Lab, which help
 
 ## :point_right: Requirements to install before running a tool
 
-1. Download the [requirements.txt](https://github.com/ayushg18/CollegeLab_AttendanceMachine/requirements.txt) file.
+1. Download the [requirements.txt](https://github.com/ayushg18/CollegeLab_AttendanceMachine/blob/main/requirements.txt) file.
+2. Run the following command:
+   ```
+   pip3 install -r requirements.txt
+
+   --------  OR  --------
+
+   pip install -r requirements.txt
+   ```
+3. You are good to go:relaxed:.
 
 ## Benefits:
 
