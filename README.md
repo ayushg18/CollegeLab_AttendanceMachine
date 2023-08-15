@@ -11,6 +11,6 @@ This tool helps to keep track of the peak hours and usage of the Lab, which help
 
 
 Benefits:
-It helps to keep the database digital
 
+It helps to keep the database digital
 Avoid false logs
