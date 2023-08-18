@@ -1,5 +1,5 @@
 # CollegeLab_AttendanceMachine
-### Welcome to our GitHub repository for the "College ID Card Student Log" tool.
+### Welcome to our GitHub repository for the "Student Attendance based on College ID Card" tool.
 This is a simple Python tool designed to help you manage a digital log of students based on their College ID cards. With this tool, you'll be able to keep track of student attendance, access important information, and streamline administrative tasks.
 
 ## How these tool work?
